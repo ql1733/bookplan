@@ -1,6 +1,8 @@
 # blog
 
-> A Vue.js project
+    
+> A Vue.js +vuex+vue-router+element-ui+vue-echarts+axios
+
 
 ## Build Setup
 
