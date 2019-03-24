@@ -16,7 +16,7 @@ export default{
     return {
       navList: [
         {path: '/list', name: '首页'},
-        {path: '/home', name: '课本输入'},      
+        {path: '/home', name: '书本输入'},      
         {path: '/comments', name: '评论列表'},
         {path: '/chart', name: '数据统计'},
         {path: '/news', name: '消息'},

@@ -2,7 +2,7 @@
 
     
 > A Vue.js +vuex+vue-router+element-ui+vue-echarts+axios
-后台服务 node+mongodb https://github.com/zsb0303/bookserver
+后台服务 node+mongodb https://github.com/ql1733/bookserver
 
 ## Build Setup
 

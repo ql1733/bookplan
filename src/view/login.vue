@@ -69,7 +69,7 @@ this.socket.on('news', (data) => {
 
           this.axois.post('/user/login', obj).then(data => {
             
-            if (data.status) {
+            if (data.data.status) {
               this.$message({
                 type: 'success',
                 message: '登录成功'
@@ -82,7 +82,7 @@ this.socket.on('news', (data) => {
             } else {
               this.$message({
                 type: 'warning',
-                message: data.message
+                message: data.data.message
               })
             }
           })
